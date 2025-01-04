@@ -1,2 +1,2 @@
-something \r\n
+something
 else nothing
